@@ -1,5 +1,4 @@
 <?php //ob_start();
-//test////
 //header('Content-Type: application/json');
 $url = 'https://gw-fatoora.zatca.gov.sa/e-invoicing/simulation/invoices/clearance/single';
 
